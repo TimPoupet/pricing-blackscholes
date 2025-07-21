@@ -23,5 +23,5 @@ Exemple simple et pedagogique pour illustrer la finance quantitative.
 Appuyer sur le bouton "Open in Colab".
 
 ## Auteur
-Timothe Poupet
+Timothe Poupet\
 Linkedin : www.linkedin.com/in/timothe-poupet-92a037241
