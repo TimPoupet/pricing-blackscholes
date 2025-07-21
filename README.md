@@ -3,7 +3,7 @@
 Ce notebook Python implemente le modele Black-Scholes pour calculer le prix theorique d'options europeennes (call et put).
 
 
-Vous pouvez le lancer sur internet en cliquant sur le bouton ci-dessous.\
+## Vous pouvez le lancer sur internet en cliquant sur le bouton ci-dessous.\
 [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TimPoupet/pricing-blackscholes/blob/main/pricingscript.ipynb)
 
 
@@ -13,20 +13,14 @@ Vous pouvez le lancer sur internet en cliquant sur le bouton ci-dessous.\
 - Exemple d'utilisation
 
 ## Fichiers
-pricingscript.ipynb
+pricingscript.ipynb\
 requirement.txt
 
 ## Pourquoi ?
 Exemple simple et pedagogique pour illustrer la finance quantitative.
 
-## Installation
-```bash
-pip install numpy scipy matplotlib
-
 ## Lancer le notebook
-jupyter notebook pricingscript.ipynb
-ou alors
-Appuyer sur le bouton "Ouvrir dans Colab".
+Appuyer sur le bouton "Open in Colab".
 
 ## Auteur
 Timothe Poupet
