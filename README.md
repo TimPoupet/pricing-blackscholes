@@ -24,3 +24,4 @@ Appuyer sur le bouton "Open in Colab".
 
 ## Auteur
 Timothe Poupet
+Linkedin : www.linkedin.com/in/timothe-poupet-92a037241
